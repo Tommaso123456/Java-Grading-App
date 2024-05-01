@@ -1,0 +1,7 @@
+UserID, Username, Password, Admin 
+"1","User","Pass","FALSE"
+"2","Admin","Pass","TRUE"
+"3","Teacher","Password","FALSE"
+"4","Admin2","AdminPass","TRUE"
+"5","ADubFire","Password","FALSE"
+"6","Admin1","Password","TRUE"
